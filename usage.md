@@ -1,4 +1,4 @@
-[TOP](./)
+[TOP](./index.html)
 
 # 使い方
 
