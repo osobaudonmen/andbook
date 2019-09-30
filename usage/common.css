@@ -1,4 +1,9 @@
-  .movie
+.movie_wrapper
+{
+  margin: 20px 0px;
+}
+
+.movie
   {
     margin: auto;
     width: 400px;
