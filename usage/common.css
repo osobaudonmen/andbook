@@ -1,11 +1,11 @@
 .movie_wrapper
 {
   margin: 20px 0px;
+  text-align: center;
 }
 
 .movie_wrapper > iframe
-  {
-    margin: auto;
-    width: 400px;
-    height: 600px;
-  }
+{
+  width: 400px;
+  height: 600px;
+}
