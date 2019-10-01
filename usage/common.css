@@ -14,6 +14,6 @@
   .movie_wrapper > iframe
   {
     width: 100%;
-    height: ;
+    height: 400px;
   }
 }
