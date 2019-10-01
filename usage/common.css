@@ -10,7 +10,11 @@
   height: 600px;
 }
 
-@media screen and (max-width: 500px)　{ 
+@media screen and (max-width: 500px) { 
+  .movie_wrapper
+  {
+    background-color: #f00;
+  }
   .movie_wrapper > iframe
   {
     width: 100%;
