@@ -9,7 +9,3 @@
 - [近々発売される本を確認して買う予定を記録する方法](usage/usage007.html)
 - [Googleドライブにバックアップを保存する方法](usage/usage008.html)
 - [Googleドライブに保存したバックアップをリストアする方法](usage/usage009.html)
-
-## 設定
-
-- [設定](usage/setting001.html)
